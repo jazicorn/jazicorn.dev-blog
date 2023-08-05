@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://jazicorn-dev-blog.github.io",
   author: "Jasmine Anderson",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "personal developer blog",
   title: "Jazicorn-Dev-Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
